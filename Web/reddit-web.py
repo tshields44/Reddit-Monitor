@@ -1,8 +1,4 @@
-'''
-Spark Cluster blew up on me when working on this night before it was due
-so I just made my front-end available locally so i'd have a way to present my
-results.
-'''
+
 
 
 from spyre import server
